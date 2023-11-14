@@ -4,4 +4,4 @@
 2. [Работа с коллекциями 17.10](https://colab.research.google.com/drive/16OYFrV2CVOwhIVFGeVeDukHc48gg5f33)
 3. [URLlib 31.10](https://colab.research.google.com/drive/1cOwQsVFGHKP_5u6Oi6_rNoseMiOZMmA3#scrollTo=WhGB-ICABvXq)
 4. [POST запрос 07.11]()
-5. [Обработка данных 14.11](https://docs.google.com/document/d/1SBeLEy3zdvTFySCljXW2GlroW1f0C5zFcCqm8aywYhc/edit)
+5. [Обработка данных 14.11](https://colab.research.google.com/drive/1QcUOMFjvMiyHJbao56KLKPU2oTP5Nh5O#scrollTo=3MGrixv7RSgW)
