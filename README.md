@@ -6,6 +6,6 @@
 4. [POST запрос 07.11](https://colab.research.google.com/drive/1WhC-X7zeAz0wRyg6rtUxSITW8jxZO6Q0?hl=ru#scrollTo=7fx9O6_vI5Mt)
 5. [Обработка данных 14.11](https://colab.research.google.com/drive/1QcUOMFjvMiyHJbao56KLKPU2oTP5Nh5O#scrollTo=3MGrixv7RSgW)
 6. [Pandas 21.11](https://colab.research.google.com/drive/1o3iUhbofsxUg0_nJKGUhib7kZcBVBPxe?hl=ru#scrollTo=f7AdFcKiSs1o)
-7. Scikit "Ирисы Фишера"
-8. Scikit "Breast cancer"
-9. Apache Hadoop
+7. Scikit "Ирисы Фишера" 05.12
+8. Scikit "Breast cancer" 12.12
+9. Apache Hadoop ~.12
