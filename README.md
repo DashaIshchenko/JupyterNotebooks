@@ -8,4 +8,4 @@
 6. [Pandas 21.11](https://colab.research.google.com/drive/1o3iUhbofsxUg0_nJKGUhib7kZcBVBPxe?hl=ru#scrollTo=f7AdFcKiSs1o)
 7. [Scikit "Ирисы Фишера" 05.12](https://colab.research.google.com/drive/1yy33FEphUZfuxU-3GqSkpQCglVF1-rOe?hl=ru#scrollTo=eef7UiTyFU8j)
 8. Scikit "Breast cancer" 12.12
-9. Apache Hadoop ~.12
+9. [Apache Hadoop ~.12](https://docs.google.com/document/d/1vJx9LPz-yOUAmdf75G-L-fIZRi8NVDpAAtRr5SSHkxg/edit?usp=sharing)
