@@ -9,5 +9,6 @@
 7. [Scikit "Ирисы Фишера" 05.12](https://colab.research.google.com/drive/1yy33FEphUZfuxU-3GqSkpQCglVF1-rOe?hl=ru#scrollTo=eef7UiTyFU8j)
 8. [Scikit "Breast cancer" 12.12](https://colab.research.google.com/drive/1DCyumpSIJXjhUJpIrobnf7gT3el9AUWG?hl=ru#scrollTo=TfUaYyraZ_su)
 9. [Apache Hadoop Hive ~.12](https://docs.google.com/document/d/1vJx9LPz-yOUAmdf75G-L-fIZRi8NVDpAAtRr5SSHkxg/edit?usp=sharing)
-10. [PyTorch 27.02](https://colab.research.google.com/drive/1AiRGKdePOF4HR7yFu4Zvs9c3fgFkCSTJ?usp=sharing)
-11. [Perceptron 05.03](https://colab.research.google.com/drive/1CAOkBaLAZje_LbY04UFZ09ZniMcUfkal?usp=sharing)
+10. [Docker Compose 13.02](https://github.com/DashaIshchenko/IADtasks/tree/main/13_02_docker_compose)
+11. [PyTorch 27.02](https://colab.research.google.com/drive/1AiRGKdePOF4HR7yFu4Zvs9c3fgFkCSTJ?usp=sharing)
+12. [Perceptron 05.03](https://colab.research.google.com/drive/1CAOkBaLAZje_LbY04UFZ09ZniMcUfkal?usp=sharing)
